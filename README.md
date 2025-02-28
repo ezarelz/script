@@ -1,3 +1,7 @@
+## SUPPORTED VERSION
+UBUNTU 20.XX ONLY
+VPS
+
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium
 ```
