@@ -18,4 +18,4 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 wget https://raw.githubusercontent.com/ezarelz/script/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 ## UPDATE
-2025 November Update
+Waiting for Future Update
