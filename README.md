@@ -1,5 +1,5 @@
 ## SUPPORTED VERSION
-UBUNTU 20.XX ONLY
+UBUNTU 20.XX ONLY z
 
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium
